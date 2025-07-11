@@ -1,7 +1,7 @@
 Hi there, I'm Varnit Raina 👋
 👀 Passionate About: Web development, API development, and backend technologies.
 🌱 Currently Learning: Advanced backend development.
-💞️ Looking to Collaborate On: Backend projects, APIs, and server-side applications.
+Looking to Collaborate On: Backend projects, APIs, and server-side applications.
 
 
 💻 Skills

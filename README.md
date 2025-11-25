@@ -74,21 +74,21 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=VarnitRaina&show_icons=true&theme=radical" 
+    src="https://github-readme-stats-varnit.vercel.app/api?username=VarnitRaina&show_icons=true&theme=radical" 
     alt="GitHub Stats" 
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarnitRaina&layout=compact&theme=radical" 
+    src="https://github-readme-stats-varnit.vercel.app/api/top-langs/?username=VarnitRaina&layout=compact&theme=radical" 
     alt="Top Languages" 
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com/?user=VarnitRaina&theme=radical" 
+    src="https://streak-stats-varnit.vercel.app/?user=VarnitRaina&theme=radical" 
     alt="GitHub Streak" 
   />
 </p>
@@ -99,7 +99,7 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=VarnitRaina&theme=tokyo-night" 
+    src="https://github-readme-activity-graph-varnit.vercel.app/graph?username=VarnitRaina&theme=tokyo-night" 
     alt="Contribution Graph" 
   />
 </p>
@@ -116,4 +116,10 @@
 
 <!--
 VarnitRaina/VarnitRaina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Note: The analytics images use self-hosted instances:
+- github-readme-stats-varnit.vercel.app
+- streak-stats-varnit.vercel.app
+- github-readme-activity-graph-varnit.vercel.app
+Make sure your Vercel project names match these, or update the URLs above.
 -->

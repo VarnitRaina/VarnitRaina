@@ -73,30 +73,24 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=VarnitRaina&show_icons=true&theme=radical" 
-      alt="GitHub Stats" 
-    />
-  </a>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=VarnitRaina&show_icons=true&theme=radical" 
+    alt="GitHub Stats" 
+  />
 </p>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarnitRaina&layout=compact&theme=radical" 
-      alt="Top Languages" 
-    />
-  </a>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarnitRaina&layout=compact&theme=radical" 
+    alt="Top Languages" 
+  />
 </p>
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img 
-      src="https://streak-stats.demolab.com/?user=VarnitRaina&theme=radical" 
-      alt="GitHub Streak" 
-    />
-  </a>
+  <img 
+    src="https://streak-stats.demolab.com/?user=VarnitRaina&theme=radical" 
+    alt="GitHub Streak" 
+  />
 </p>
 
 ---
@@ -104,7 +98,10 @@
 ## ⚙️ Activity & Contributions
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VarnitRaina&theme=tokyo-night" alt="Contribution Graph" />
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=VarnitRaina&theme=tokyo-night" 
+    alt="Contribution Graph" 
+  />
 </p>
 
 ---
@@ -115,9 +112,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Coding GIF" />
 </p>
 
-<p align="center">
-  <em>"Code. Break. Fix. Learn. Repeat."</em>
-</p>
+<p align="center"><em>"Code. Break. Fix. Learn. Repeat."</em></p>
 
 <!--
 VarnitRaina/VarnitRaina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

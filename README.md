@@ -73,15 +73,30 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VarnitRaina&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=VarnitRaina&show_icons=true&theme=radical" 
+      alt="GitHub Stats" 
+    />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarnitRaina&layout=compact&theme=radical" alt="Top Languages" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarnitRaina&layout=compact&theme=radical" 
+      alt="Top Languages" 
+    />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VarnitRaina&theme=radical" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats">
+    <img 
+      src="https://streak-stats.demolab.com/?user=VarnitRaina&theme=radical" 
+      alt="GitHub Streak" 
+    />
+  </a>
 </p>
 
 ---
